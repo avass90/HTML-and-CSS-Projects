@@ -1,0 +1,10 @@
+p	{
+	color: red;
+	background-color: black;
+	font-size: small;
+	text-align: center;
+	}
+p1 {
+	font-size: 400%;
+	text-shadow: 4px 4px #8AFF33;
+}
